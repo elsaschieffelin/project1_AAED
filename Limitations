@@ -15,4 +15,5 @@ The relationship between popularity and the technology available at the time (ma
 The playlists of the past were not created contemporarily as were current playlists. 
 
 Are playlists of the past informed by the respective decade’s preferences (as measured in the respective decade) or by the current userbase’s preferences? Does the “top songs of the 70s” playlist consist of the songs that were most popular in the seventies or the songs written in the 70s that are most popular with Spotify’s current userbase? Either situation presents further issues to consider. If popularity is measured contemporarily, then we open ourselves up to methodological inconsistencies depending on the source of that measure. If popularity is measured by the current userbase’s preferences, then we can more safely assume that the methodology for measuring popularity is consistent among playlists. However, our data would not describe contemporary popularity, which affects what questions we ask about the data.
-   
+
+We capped each playlist at 50 songs. We don't know if Spotify's sequence was random or systematic, but any such confounding variables should be characteristic of all playlists (assuming the same methodology for each) and thus should not preclude comparisons.
