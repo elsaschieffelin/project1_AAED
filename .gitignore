@@ -1,11 +1,13 @@
 *.xlsx
 *api_key*.*
 **passwords/
+*config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
+
 
 # C extensions
 *.so
